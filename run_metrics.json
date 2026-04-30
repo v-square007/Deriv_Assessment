@@ -1,0 +1,35 @@
+{
+  "run_at": "2026-04-30T20:02:25.213848+00:00",
+  "stage_timings_sec": {
+    "INIT": 0.0,
+    "CONFIG_LOADED": 0.712,
+    "PAGES_FETCHED": 0.712,
+    "CONTENT_EXTRACTED": 0.736,
+    "PROTECTED_TERMS_IDENTIFIED": 0.736,
+    "SEGMENTS_PREPARED": 0.937,
+    "SEGMENTS_DEDUPED_OR_CACHE_CHECKED": 0.937,
+    "TRANSLATION_COMPLETE": 0.937,
+    "HTML_RECONSTRUCTED": 1.789,
+    "QA_COMPLETE": 1.793,
+    "COST_REPORT_GENERATED": 1.794,
+    "RESULTS_FINALISED": 1.795
+  },
+  "segments_extracted": 2,
+  "cache_hits": 0,
+  "cache_misses": 584,
+  "cache_hit_rate_pct": 0.0,
+  "total_llm_calls": 5,
+  "total_qa_issues": 4,
+  "per_language": {
+    "ar": {
+      "translated_segments": 2,
+      "critical_qa_issues": 0,
+      "qa_pass_rate_pct": 100.0
+    },
+    "es": {
+      "translated_segments": 2,
+      "critical_qa_issues": 0,
+      "qa_pass_rate_pct": 100.0
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "target_languages": [
+    {
+      "code": "ar",
+      "name": "Arabic",
+      "direction": "rtl"
+    },
+    {
+      "code": "es",
+      "name": "Spanish",
+      "direction": "ltr"
+    }
+  ]
+}

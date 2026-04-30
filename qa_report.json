@@ -1,0 +1,48 @@
+{
+  "generated_at": "2026-04-30T20:02:25.212136+00:00",
+  "summary": {
+    "total_segments_checked": 4,
+    "total_issues": 4,
+    "critical": 0,
+    "warning": 4,
+    "info": 0
+  },
+  "issues": [
+    {
+      "segment_id": "0af80fbc293d5c7d",
+      "language_code": "ar",
+      "source_text": "[FETCH_ERROR] Source page could not be fetched.",
+      "translated_text": "[FETCH_ERROR] Source page could not be fetched.",
+      "issue_type": "untranslated_segment",
+      "severity": "warning",
+      "details": "Translated text is identical to source text."
+    },
+    {
+      "segment_id": "6467c21717ce84b3",
+      "language_code": "ar",
+      "source_text": "[FETCH_ERROR] Source page could not be fetched.",
+      "translated_text": "[FETCH_ERROR] Source page could not be fetched.",
+      "issue_type": "untranslated_segment",
+      "severity": "warning",
+      "details": "Translated text is identical to source text."
+    },
+    {
+      "segment_id": "0af80fbc293d5c7d",
+      "language_code": "es",
+      "source_text": "[FETCH_ERROR] Source page could not be fetched.",
+      "translated_text": "[FETCH_ERROR] Source page could not be fetched.",
+      "issue_type": "untranslated_segment",
+      "severity": "warning",
+      "details": "Translated text is identical to source text."
+    },
+    {
+      "segment_id": "6467c21717ce84b3",
+      "language_code": "es",
+      "source_text": "[FETCH_ERROR] Source page could not be fetched.",
+      "translated_text": "[FETCH_ERROR] Source page could not be fetched.",
+      "issue_type": "untranslated_segment",
+      "severity": "warning",
+      "details": "Translated text is identical to source text."
+    }
+  ]
+}

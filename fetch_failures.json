@@ -1,0 +1,10 @@
+[
+  {
+    "page_url": "https://deriv.com",
+    "error": "fetch_failed_or_empty_response"
+  },
+  {
+    "page_url": "https://deriv.com/trading-platforms",
+    "error": "fetch_failed_or_empty_response"
+  }
+]

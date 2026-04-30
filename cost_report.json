@@ -1,0 +1,39 @@
+{
+  "generated_at": "2026-04-30T20:02:25.213235+00:00",
+  "model": "gemini-1.5-flash",
+  "pricing_note": "Gemini 1.5 Flash: $0.075/1M input tokens, $0.30/1M output tokens",
+  "efficiency_strategy": "Segment deduplication by SHA-256 content hash prevents re-translating identical segments across pages. A persistent translation_cache.json stores results by (content_hash, lang_code, terms_hash) so repeat pipeline runs reuse prior work.",
+  "cache_summary": {
+    "hits": 0,
+    "misses": 584,
+    "hit_rate_pct": 0.0
+  },
+  "totals": {
+    "llm_calls": 5,
+    "estimated_input_tokens": 993,
+    "estimated_output_tokens": 288,
+    "estimated_total_cost_usd": 0.000161
+  },
+  "per_language": {
+    "ar": {
+      "calls": 2,
+      "estimated_input_tokens": 490,
+      "estimated_output_tokens": 44,
+      "estimated_cost_usd": 5e-05
+    },
+    "es": {
+      "calls": 2,
+      "estimated_input_tokens": 412,
+      "estimated_output_tokens": 44,
+      "estimated_cost_usd": 4.4e-05
+    }
+  },
+  "per_page_segments": {
+    "https://deriv.com": {
+      "segments": 1
+    },
+    "https://deriv.com/trading-platforms": {
+      "segments": 1
+    }
+  }
+}

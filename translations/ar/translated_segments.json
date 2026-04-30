@@ -1,0 +1,24 @@
+[
+  {
+    "segment_id": "0af80fbc293d5c7d",
+    "language_code": "ar",
+    "page_url": "https://deriv.com",
+    "source_text": "[FETCH_ERROR] Source page could not be fetched.",
+    "protected_text": "[FETCH_ERROR] Source page could not be fetched.",
+    "translated_text": "[FETCH_ERROR] Source page could not be fetched.",
+    "protected_terms_restored": true,
+    "content_hash": "d3133349e046137e726bedde69bf8b9be770198b8aa1bea53201542a5985d13a",
+    "qa_status": "pending"
+  },
+  {
+    "segment_id": "6467c21717ce84b3",
+    "language_code": "ar",
+    "page_url": "https://deriv.com/trading-platforms",
+    "source_text": "[FETCH_ERROR] Source page could not be fetched.",
+    "protected_text": "[FETCH_ERROR] Source page could not be fetched.",
+    "translated_text": "[FETCH_ERROR] Source page could not be fetched.",
+    "protected_terms_restored": true,
+    "content_hash": "d3133349e046137e726bedde69bf8b9be770198b8aa1bea53201542a5985d13a",
+    "qa_status": "pending"
+  }
+]
